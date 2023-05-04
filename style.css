@@ -13,7 +13,7 @@ body {
 }
 .board {
   width: auto;
-  height: 83.2vh;  
+  height: 74vh;  
   display: grid;
   justify-content: center;
   align-content: center;
